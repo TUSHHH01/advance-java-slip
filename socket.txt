@@ -1,0 +1,3 @@
+slip  6b = Done
+slip 10b = Done
+slip 19a = Done

@@ -1,0 +1,9 @@
+slip  4a = try ;    (with JDBC)
+slip  7a = done ;
+slip  8a = done ;
+slip  9a = try ;    (with JDBC)
+slip 10a = done ;
+slip 11b = try ;    (3 jsp files)
+slip 13b = done ;   (run html file)
+slip 17a = done ;
+slip 19b = try ;    (with html and jdbc) 

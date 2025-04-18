@@ -1,0 +1,11 @@
+ 2a = done 
+ 3a = done 
+ 6a = done
+ 9b = done
+11a = done
+12b = done 
+13a = done     (some work needed)
+15b = done
+17b = try      (With applet)
+18a = try err 
+20b = tey      (with applet)

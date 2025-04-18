@@ -1,0 +1,4 @@
+slip  1b = try, 
+slip 20b = try , 
+slip 17b = try .
+are the applet program they not run in update version .

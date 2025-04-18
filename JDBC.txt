@@ -1,0 +1,12 @@
+slip  2b = try ,
+slip  3b = NOT try,
+slip  4b = Done,
+slip  5a = try ,
+slip  8b = NOt try ,
+slip 12a = try ,
+slip 14b = try ,
+slip 15a = NOT try ,
+slip 16a = NOt Complete, 
+slip 16b = try, 
+slip 18b = NOT try,
+slip 20a = try .
